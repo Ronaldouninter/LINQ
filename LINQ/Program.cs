@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 
 namespace LINQ
 {
+    /// <summary>
+    /// RONALDO     16/06/2024
+    /// ESTE PROGRAMA SIMULA UN SISTEMA DE BIBLIOTECA CON LIBROS Y PRÉSTAMOS, PERMITIENDO CONSULTAR Y FILTRAR INFORMACIÓN USANDO LINQ.
+    /// </summary>
+
     internal class Program
     {
         static void Main(string[] args)

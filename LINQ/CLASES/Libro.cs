@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace LINQ.CLASES
 {
-    public  class Libro
+    /// <summary>
+    /// RONALDO     16/06/2024
+    /// ESTA CLASE REPRESENTA UN LIBRO EN EL SISTEMA DE BIBLIOTECA, CONTENIENDO PROPIEDADES COMO ID, TÍTULO, AUTOR, AÑO DE PUBLICACIÓN Y DISPONIBILIDAD. INCLUYE UN MÉTODO PARA MOSTRAR LA INFORMACIÓN DEL LIBRO DE MANERA FORMATEADA.
+    /// </summary>
+    public class Libro
     {
         public int Id { get; set; }
         public string Titulo { get; set; }
